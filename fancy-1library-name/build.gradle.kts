@@ -1,4 +1,4 @@
-group = "dev.thriving.oss"
+group = "org.acme_corp.common"
 
 object Meta {
     const val release = "https://s01.oss.sonatype.org/service/local/"
@@ -6,10 +6,10 @@ object Meta {
     const val desc = "OSS GitHub Java Library Template Repository"
     const val license = "Apache-2.0"
     const val licenseUrl = "https://opensource.org/licenses/Apache-2.0"
-    const val githubRepo = "thriving-dev/java-library-template"
+    const val githubRepo = "kjoivmasopkpaoksd/jt5"
     const val developerId = "hartmut-co-uk"
-    const val developerName = "Hartmut Armbruster"
-    const val developerOrganization = "thriving.dev"
+    const val developerName = "Your Name"
+    const val developerOrganization = "ACME Corporation"
     const val developerOrganizationUrl = "https://thriving.dev/"
 }
 

@@ -1,4 +1,4 @@
-package dev.thriving.oss.java.library.template;
+package _org.ac_me._._fan__cy.lib_;
 
 /**
  * Javadoc for {@link JavaLibraryTemplate}

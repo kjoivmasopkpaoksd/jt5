@@ -1,13 +1,10 @@
-package dev.thriving.oss.java.library.template;
+package _org.ac_me._._fan__cy.lib_;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * Use e.g. <a href="https://testcontainers.com/">testcontainers</a> for integration tests...
- */
-class JavaLibraryTemplateIntegrationTest {
+class JavaLibraryTemplateTest {
 
     @Test
     void toFunkyCase() {
